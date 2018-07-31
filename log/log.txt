@@ -1,0 +1,33 @@
+[18:32:40] Client 192.168.1.104:51048 connected.
+[18:33:16] Error: 192.168.1.104:51048 Undefined Control Head.
+[18:33:17] Error: 192.168.1.104:51048 Undefined Control Head.
+[18:33:17] Error: 192.168.1.104:51048 Undefined Control Head.
+[18:33:17] Error: 192.168.1.104:51048 Undefined Control Head.
+[18:33:17] Error: 192.168.1.104:51048 Undefined Control Head.
+[18:33:52] Client 192.168.1.104:51048 disconnected.
+[18:40:58] Client 192.168.1.104:51160 connected.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:41:19] Error: 192.168.1.104:51160 Undefined Control Head.
+[18:43:53] Client 192.168.1.104:51160 disconnected.
+[18:45:04] Client 192.168.1.104:51310 connected.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:26] Error: 192.168.1.104:51310 Undefined Control Head.
+[18:45:57] Client 192.168.1.104:51310 disconnected.
+[18:49:17] Client 127.0.0.1:57964 connected.
+[18:50:16] Client 127.0.0.1:57964 disconnected.
+[18:55:39] Client 127.0.0.1:58987 connected.
+[19:00:28] Client 127.0.0.1:58987 disconnected.

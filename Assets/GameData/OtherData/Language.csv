@@ -1,0 +1,14 @@
+﻿TextID,Chinese,English,Japanese
+key,value,value,value
+string,string,string,string
+GameName,东方地牢,Touhou Dungeon,東方ダンジョン
+Option,设置,Option,设定
+Resolution,分辨率,Resolution,解像度
+FullScreen,全屏,Full Screen,フルスクリーン
+Windowed,窗口,Windowed,ウィンドウ
+MainVolume,主音量,Main Volume,音量
+SoundEffect,效果音量,Sound Effect,SE音量
+BGM,BGM音量,BGM,BGM音量
+Confirm,确认,Confirm,かくにん
+Cancel,取消,Cancel,戻る もどる
+Language,语言,Language,言語
