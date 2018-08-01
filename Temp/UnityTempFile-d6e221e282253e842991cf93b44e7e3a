@@ -1,0 +1,250 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp-firstpass.dll
+-nostdlib
+-r:Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
+-r:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+-r:Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+-r:Library/ScriptAssemblies/Unity.TextMeshPro.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AccessibilityModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AnimationModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AssetBundleModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AudioModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.BaselibModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ClothModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CloudWebServicesModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ClusterInputModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CoreModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CrashReportingModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.DirectorModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.FacebookModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.FileSystemHttpModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.GameCenterModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.GridModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.HotReloadModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.IMGUIModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ImageConversionModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.InputModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.LocalizationModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.PhysicsModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.Physics2DModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ProfilerModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.StreamingModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SubstanceModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TLSModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TextRenderingModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TilemapModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TimelineModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UIModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UIElementsModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UNETModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UmbraModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityConnectModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VRModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VehiclesModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VideoModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.WindModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll
+-r:D:\Unity\Editor\Data\Managed/UnityEditor.dll
+-r:D:\Unity\Editor\Data\Managed/Unity.Locator.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+-r:D:/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll
+-r:Assets/Plugins/2DDL/2DLight/Utils/Resources2DDL.dll
+-r:C:/Users/Rabi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll
+-r:C:/Users/Rabi/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\mscorlib.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Core.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Runtime.Serialization.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\System.Xml.Linq.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\UnityScript.Lang.dll
+-r:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity\Boo.Lang.dll
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_2_0
+-define:UNITY_2018_2
+-define:UNITY_2018
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_ANALYTICS
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITES
+-define:ENABLE_GRID
+-define:ENABLE_TILEMAP
+-define:ENABLE_TERRAIN
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_DIRECTOR
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_TIMELINE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:ENABLE_MONO_BDWGC
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_VIDEO
+-define:ENABLE_PACKMAN
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_LOCALIZATION
+-define:PLATFORM_STANDALONE_WIN
+-define:PLATFORM_STANDALONE
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VR
+-define:ENABLE_AR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:NET_2_0_SUBSET
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+Assets/Plugins/2DDL/2DLight/AssetUtility/AssetUtility.cs
+Assets/Plugins/2DDL/2DLight/Core/CasterCollider.cs
+Assets/Plugins/2DDL/2DLight/Core/CoreUtils.cs
+Assets/Plugins/2DDL/2DLight/Core/DynamicLight.cs
+Assets/Plugins/2DDL/2DLight/Core/DynamicLightEvents.cs
+Assets/Plugins/2DDL/2DLight/PropertyDrawers/Attributes.cs
+Assets/Plugins/2DDL/2DLight/PropertyDrawers/ButtonAttributeDrawer.cs
+Assets/Plugins/2DDL/2DLight/PropertyDrawers/FieldDescriptionAttributeDrawer.cs
+Assets/Plugins/2DDL/2DLight/PropertyDrawers/IncrementableAttribute.cs
+Assets/Plugins/2DDL/2DLight/PropertyDrawers/IncrementableAttributeDrawer.cs
+Assets/Plugins/2DDL/2DLight/PropertyDrawers/PopUpAttributeDrawer.cs
+Assets/Plugins/2DDL/2DLight/PropertyDrawers/SeparatorAttributeDrawer.cs
+Assets/Plugins/2DDL/2DLight/PropertyDrawers/TitleAttributeDrawer.cs
+Assets/Plugins/2DDL/2DLight/Sight/SightListenerTemplate.cs
+Assets/Plugins/2DDL/2DLight/Utils/more/CoroutineExt/CoroutineExtentions.cs
+Assets/Plugins/2DDL/2DLight/Utils/more/ExtendsMe.cs
+Assets/Plugins/2DDL/2DLight/Utils/more/fpsClass.cs
+Assets/Plugins/2DDL/2DLight/Utils/more/GLDebug.cs
+Assets/Plugins/2DDL/2DLight/Utils/more/interface_touch.cs
+Assets/Plugins/2DDL/2DLight/Utils/more/SetRenderQueue.cs
+Assets/Plugins/2DDL/2DLight/Utils/more/TablaSenoCoseno.cs
+Assets/Plugins/2DDL/2DLight/Utils/more/TimerClass.cs
+Assets/Plugins/2DDL/2DLight/Utils/RegisterCaster.cs
+Assets/Plugins/2DDL/Add-ons/AddOnBase/AddOnBase.cs
+Assets/Plugins/2DDL/Add-ons/ColorBlending.cs
+Assets/Plugins/2DDL/Add-ons/Fire.cs
+Assets/Plugins/2DDL/Add-ons/Illumination.cs
+Assets/Plugins/2DDL/Add-ons/LensFlares.cs
+Assets/Plugins/2DDL/Add-ons/LookAt.cs
+Assets/Plugins/2DDL/Add-ons/Rotation.cs
+Assets/Plugins/2DDL/Add-ons/Source.cs
+Assets/Plugins/2DDL/Examples/__Examples_Scripts/CharacterController2D/CharacterController2D.cs
+Assets/Plugins/2DDL/Examples/__Examples_Scripts/restoreStone.cs
+Assets/Plugins/2DDL/Examples/__Examples_Scripts/rotate.cs
+Assets/Plugins/2DDL/Examples/__Examples_Scripts/rotationUsingSync.cs
+Assets/Plugins/2DDL/Examples/__Examples_Scripts/SmoothFollow.cs
+"Assets/Plugins/2DDL/Examples/0 - DUNGEON GAME/BlinkLight.cs"
+"Assets/Plugins/2DDL/Examples/0 - DUNGEON GAME/CatchTheBlueTorch.cs"
+"Assets/Plugins/2DDL/Examples/0 - DUNGEON GAME/CharacterMovement.cs"
+"Assets/Plugins/2DDL/Examples/0 - DUNGEON GAME/CreditsScript.cs"
+"Assets/Plugins/2DDL/Examples/0 - DUNGEON GAME/followPlayer.cs"
+"Assets/Plugins/2DDL/Examples/0 - DUNGEON GAME/OpenEgyptianGate.cs"
+"Assets/Plugins/2DDL/Examples/0 - DUNGEON GAME/SetProximityFactor.cs"
+"Assets/Plugins/2DDL/Examples/0 - DUNGEON GAME/UnlockTheExitDoor.cs"
+"Assets/Plugins/2DDL/Examples/12 - Create and register Casters by code/addingCastersUnefficient.cs"
+"Assets/Plugins/2DDL/Examples/12 - Create and register Casters by code/UsingAddColliderToScene.cs"
+"Assets/Plugins/2DDL/Examples/13 - Delete Casters by code in PlayMode/DeleteCasters.cs"
+"Assets/Plugins/2DDL/Examples/14 - Creation of both 2DDLight and Casters Procedurally/ProceduralLightAndCasters.cs"
+"Assets/Plugins/2DDL/Examples/15 - Light with Physics/followBody.cs"
+"Assets/Plugins/2DDL/Examples/16 - Soft and Smooth shadows edges/Blur.cs"
+"Assets/Plugins/2DDL/Examples/16 - Soft and Smooth shadows edges/PostEffectsBase.cs"
+"Assets/Plugins/2DDL/Examples/2 - Fire Light/AnimateFireSprite.cs"
+"Assets/Plugins/2DDL/Examples/3 - Multiples Lights/interface_manager.cs"
+"Assets/Plugins/2DDL/Examples/4 - Events/InstanceEvents.cs"
+"Assets/Plugins/2DDL/Examples/5 - Bomb Explosion Simulation and Visibility algorithm/bomb.cs"
+"Assets/Plugins/2DDL/Examples/5 - Bomb Explosion Simulation and Visibility algorithm/PlayerStatusManager.cs"
+"Assets/Plugins/2DDL/Examples/6 - Fog of War with Occlusion effect and Sight with dispatch events/OcclusionEventsDelegate.cs"
+"Assets/Plugins/2DDL/Examples/9 - Light Car/SpawnCasters.cs"
+"Assets/Plugins/2DDL/Examples/OLD Examples/0 - First Simple/punchRadius.cs"
+"Assets/Plugins/2DDL/Examples/OLD Examples/8 - ConeOfSight - FieldOfView/bullet.cs"
+"Assets/Plugins/2DDL/Examples/OLD Examples/8 - ConeOfSight - FieldOfView/fire.cs"
+"Assets/Plugins/2DDL/Examples/OLD Examples/8 - ConeOfSight - FieldOfView/rotate_2.cs"
+-lib:D:\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity
